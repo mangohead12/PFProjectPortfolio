@@ -1,23 +1,18 @@
-url: https://mangohead12.github.io
-baseurl:
+url: "https://mangohead12.github.io"
+baseurl: ""  # must be empty for personal sites
 
-title: Project Portfolio
-author: Patrick Fong
-email: patrickfong12@gmail.com
+title: "Project Portfolio"
+author: "Patrick Fong"
+email: "patrickfong12@gmail.com"
 description: > # this means to ignore newlines until "show_exerpts:"
   Mechanical engineer specializing in robotics, mechatronics, and mechanical design.
   This portfolio showcases projects including a 6-DoF robotic arm, fruit picking end effector, and rocket-tracking antenna.
 
-
-
-
 # Header Links
-homepage: https://mangohead12.github.io
-twitter_username: 
-github_username:  
-linkedin_username: 
-
-
+homepage: "https://mangohead12.github.io"
+twitter_username:
+github_username: mangohead12
+linkedin_username:
 
 # Build settings
 theme: jekyll-theme-portfolio
