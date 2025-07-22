@@ -5,6 +5,10 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Mechanical engineer specializing in robotics, mechatronics, and mechanical design.
   This portfolio showcases projects including a 6-DoF robotic arm, fruit picking end effector, and rocket-tracking antenna.
 
+url: https://mangohead12.github.io
+baseurl: PFProjectPortfolio
+  
+
 
 # Header Links
 homepage: https://mangohead12.github.io/PFProjectPortfolio
