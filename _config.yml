@@ -1,16 +1,16 @@
-title: Your awesome title
-author: Your Name
-email: your-email@domain.com
+title: Project Portfolio
+author: Patrick Fong
+email: patrickfong12@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mechanical engineer specializing in robotics, mechatronics, and mechanical design.
+  This portfolio showcases projects including a 6-DoF robotic arm, fruit picking end effector, and rocket-tracking antenna.
+
 
 # Header Links
-homepage: https://blog.tedivm.com
-twitter_username: example
-github_username:  example
-linkedin_username: example
+homepage: https://mangohead12.github.io/PFProjectPortfolio
+twitter_username: 
+github_username:  
+linkedin_username: 
 
 
 
